@@ -1,5 +1,5 @@
 { "name"        : "mixpanel-client"
-, "description" : "The rapid development framework for node.js"
+, "description" : "A simple client for mixpanel's tracking API."
 
 , "keywords"    : ["mixpanel", "analytics", "api", "stats"]
 , "version"     : "0.0.1"
