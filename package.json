@@ -2,7 +2,7 @@
 , "description" : "A simple client for mixpanel's tracking API."
 
 , "keywords"    : ["mixpanel", "analytics", "api", "stats"]
-, "version"     : "0.0.1"
+, "version"     : "0.1.0"
 , "homepage"    : "https://github.com/glesperance/mixpanel-client"
 
 , "repository"  : { "type"  : "git"
