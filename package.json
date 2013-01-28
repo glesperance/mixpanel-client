@@ -1,7 +1,7 @@
 { "name"        : "mixpanel-client"
-, "description" : "A simple client for mixpanel's tracking API."
+, "description" : "A simple client for mixpanel's tracking & export API. Also supports exporting via streams."
 
-, "keywords"    : ["mixpanel", "analytics", "api", "stats"]
+, "keywords"    : ["mixpanel", "analytics", "api", "stats", "export", "stream"]
 , "version"     : "0.2.0"
 , "homepage"    : "https://github.com/glesperance/mixpanel-client"
 
